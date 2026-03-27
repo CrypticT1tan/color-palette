@@ -1,6 +1,6 @@
 # COLOR PALETTE 🎨
 
-Eyedropper application that allows you to extract colors and hex codes from any image file on your computer. Made with the Python Tkinter and Pillow library.
+Eyedropper application that allows you to extract colors and hex codes from the pixels of any image file on your computer. Made with the Python Tkinter and Pillow library.
 
 ---
 
