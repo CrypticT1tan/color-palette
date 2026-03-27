@@ -38,11 +38,11 @@ pip install pillow
 ```
 
 ## USAGE 🔧
-**Note:** Make sure your virtual environment is still activated while running this program.
-To start, click the "Browse Image File" button to open up your computer's file system. 
-Then, select the image file you want to open. Your image will be displayed on the canvas.
-Click anywhere on the image to get the hex code and color of the clicked pixel.
-You can hold up to 6 hex codes/colors at once.
+**Note:** Make sure your virtual environment is still activated while running this program.  
+To start, click the "Browse Image File" button to open up your computer's file system.   
+Then, select the image file you want to open. Your image will be displayed on the canvas.  
+Click anywhere on the image to get the hex code and color of the clicked pixel.  
+You can hold up to 6 hex codes/colors at once.  
 
 
 
