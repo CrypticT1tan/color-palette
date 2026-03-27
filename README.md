@@ -3,7 +3,7 @@
 Eyedropper application that allows you to extract colors and hex codes from the pixels of any image file on your computer. Made with the Python Tkinter and Pillow library.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-yellow)
-![Version](https://img.shields.io/badge/Version-1.0+-blue)
+![Version](https://img.shields.io/badge/Version-0.5-blue)
 
 ---
 
