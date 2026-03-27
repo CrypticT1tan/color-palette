@@ -11,7 +11,7 @@ Eyedropper application that allows you to extract colors and hex codes from the 
 - Allows you to interact with your file system to pick image files
 - Extract the color of any pixel in any image file selected
 - Extracted colors will be shown alongside their hex code
-- Any file that isn't a valid image file will not be accepted by the program
+- Any other file will not be accepted by the program
 
 ## INSTALLATION ⚙️
 Clone the repository while in your desired directory:
