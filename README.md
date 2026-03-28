@@ -47,7 +47,7 @@ You can hold up to 6 hex codes/colors at once.
 
 
 
-When you are done with it, you can deactivate the virtual environment with this command:
+When you are done with the program, you can deactivate the virtual environment with this command:
 ```bash
 deactivate
 ```
